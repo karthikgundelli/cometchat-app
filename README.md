@@ -32,7 +32,22 @@ Preparing:
 
 A GitHub repository
 
-A PDF report summarizing issues + suggestions
+images
+
+## 🧪 Screenshots
+
+📸 **Dashboard View**  
+![Dashboard Screenshot](https://github.com/karthikgundelli/cometchat-app/blob/main/Screenshot%20(55).png)
+
+📸 **UI Kit Builder**  
+![UI Kit Builder Screenshot](https://github.com/karthikgundelli/cometchat-app/blob/main/Screenshot%20(56).png)
+
+📸 **Terminal / Console Output**  
+![Terminal Screenshot](https://github.com/karthikgundelli/cometchat-app/blob/main/Screenshot%20(57).png)
+
+📸 **Working React App**  
+![React App Screenshot](https://github.com/karthikgundelli/cometchat-app/blob/main/Screenshot%20(58).png)
+
 
 📂 Project Structure
 cometchat-app/
